@@ -1,4 +1,3 @@
-# PowerShell
-PowerShell Zeugs
+# Mein erster Test auf Github mit VS Code
+# PowerShell Zeugs
 
-# mein erster Github Test
