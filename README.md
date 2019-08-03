@@ -1,11 +1,11 @@
 # Mein erster Test auf Github mit VS Code
 # PowerShell Zeugs
-# aber irgendwie gehts ned so richtig, bin aber am üben 22:03
 
-#region Test1
-write-host "test"
-#endregion
+git clone
+https://github.com/noebauerr/PowerShell-test
 
-#region test2
-write-host "blabla"
-#endregion
+änderungen
+
+ctrl-enter
+
+git push
