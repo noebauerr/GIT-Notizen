@@ -9,3 +9,5 @@ https://github.com/noebauerr/PowerShell-test
 ctrl-enter
 
 git push
+
+wann genau brauche ich git pull ????
