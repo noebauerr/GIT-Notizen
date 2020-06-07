@@ -19,4 +19,4 @@
 
 # git status
 
-# git config
+# git config --list
