@@ -6,6 +6,7 @@ Links zur Markdown Language:
 
 Links zu Git:
 - https://git-scm.com/download
+- https://github.github.com/training-kit/downloads/de/github-git-cheat-sheet/
 - https://www.git-scm.com/book/de/v2
 - https://gitahead.github.io/gitahead.com/
 - https://learngitbranching.js.org/?locale=de_DE
