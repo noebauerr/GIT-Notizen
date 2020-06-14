@@ -8,6 +8,7 @@ Links zu Git:
 - https://git-scm.com/download
 - https://www.git-scm.com/book/de/v2
 - https://gitahead.github.io/gitahead.com/
+- https://learngitbranching.js.org/?locale=de_DE
 
 ### im Zuge vom HPI Kurs (juni 2020) editiert
 
