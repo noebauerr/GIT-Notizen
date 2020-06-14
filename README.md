@@ -14,6 +14,7 @@ Links zu Git:
 - git init             - erstellt ein neues lokales Repository
 - git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
 - git commit -m 'info' - aktualisiert dann das Repository
+- git commit --amend -m 'jetzt der richtige Text' - ersetzt die alte Commit Message
 - git remove *.jpg     - entfernt dann Dateien
 
 - git remote ?       - lädt ein lokales Repo ins Internet zB auf GitHub
@@ -31,15 +32,19 @@ Links zu Git:
 - git config --list
 
 - git branch <name> - erstellt einen branch
+- git branch -d <name> - einen nicht mehr benötigten Branch löschen
 - git checkout <branch> - wechseln von Branches, setzt den HEAD (Zeiger) auf einen anderen Branch
-- git checkour -b <newbranchname> - legt einen neuen Branch an und wechselt gleich
+- git checkout -b <newbranchname> - legt einen neuen Branch an und wechselt gleich
 - git merge <branch> - zusammenführen von Branches
 
 - git log - zeigt commit Historie an
 - git log -p oder --patch zeigt die Unterschiede an
+- git log --graph zeigt auch die Branches ein bisschen an
+- git log --graph --oneline noch kompakter
 - git log --stat
 - git log --pretty finde ich nicht so toll
   
-- git reset HEAD <datei> - unstaging von Dateien
+- git reset HEAD~ - zurück auf den vorletzten Commit, Arbeitsverzeichnis hat aber noch alle Änderungen gespeichert
+- git reset --hard HEAD~ - zurück auf den vorletzten Commit und Arbeitsverzeichnis auch auf die alte Version setzen
 - git checkout -- <datei> - Änderungen an Datei verwerfen
   
