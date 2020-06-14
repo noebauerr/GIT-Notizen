@@ -13,6 +13,10 @@ Links zu Git:
 
 ### im Zuge vom HPI Kurs (juni 2020) editiert
 
+nach der Installation:
+git config --global user.name "Reinhard.N"
+git config --global user.email "reinhard.n@test.at"
+
 - git init             - erstellt ein neues lokales Repository
 - git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
 - git commit -m 'info' - aktualisiert dann das Repository
