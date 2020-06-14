@@ -7,6 +7,7 @@ Links zur Markdown Language:
 Links zu Git:
 - https://git-scm.com/download
 - https://www.git-scm.com/book/de/v2
+- https://gitahead.github.io/gitahead.com/
 
 ### im Zuge vom HPI Kurs (juni 2020) editiert
 
@@ -21,7 +22,7 @@ Links zu Git:
 - git push    - lädt die Änderungen dann ins Online Repo bei Github
 
 - git fetch origin   - lädt die aktuelle Version von einem anderen Repository runter
-- git merge          - und verbindet es dann
+- git merge          - integriert den branch in den aktuellen
 
 - git pull    - führt fetch und merge aus, beide Befehle in einem
 
