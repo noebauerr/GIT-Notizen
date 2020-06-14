@@ -30,7 +30,8 @@ Links zu Git:
 - git config --list
 
 - git branch <name> - erstellt einen branch
-- git checkout <branch> - wechseln von Branches
+- git checkout <branch> - wechseln von Branches, setzt den HEAD (Zeiger) auf einen anderen Branch
+- git checkour -b <newbranchname> - legt einen neuen Branch an und wechselt gleich
 - git merge <branch> - zusammenführen von Branches
 - git log - zeigt commit Historie an
   
