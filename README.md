@@ -28,3 +28,12 @@ Links zu Git:
 - git status
 
 - git config --list
+
+- git branch <name> - erstellt einen branch
+- git checkout <branch> - wechseln von Branches
+- git merge <branch> - zusammenführen von Branches
+- git log - zeigt commit Historie an
+  
+- git reset HEAD <datei> - unstaging von Dateien
+- git checkout -- <datei> - Änderungen an Datei verwerfen
+  
