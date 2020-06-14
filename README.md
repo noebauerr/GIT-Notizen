@@ -1,25 +1,18 @@
-# Mein erster Test auf Github mit VS Code
-# PowerShell Zeugs
+# Notizen wie GIT funktioniert
 
 Hier noch ein LInk für mich wo drinnen steht wie die Formatierung funktioniert
-(https://www.it-talents.de/blog/it-talents/tutorial-einstieg-in-markdown-zur-schnellen-formatierung-von-readme-dateien)
+https://www.it-talents.de/blog/it-talents/tutorial-einstieg-in-markdown-zur-schnellen-formatierung-von-readme-dateien
 https://dillinger.io/ Markdown Editor
 
-git clone
-https://github.com/noebauerr/PowerShell-test
-
+git clone https://github.com/noebauerr/PowerShell-test
 änderungen
-
 ctrl-enter
 
-git push
-
-wann genau brauche ich git pull ????
 
 # im Zuge vom HPI Kurs (juni 2020) editiert
 
 git init             - erstellt ein neues lokales Repository
-git add              - fügt dateien hinzu, auch Wildcard möglich
+git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
 git commit -m 'info' - aktualisiert dann das Repository
 git remove *.jpg     - entfernt dann Dateien
 
