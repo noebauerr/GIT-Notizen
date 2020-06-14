@@ -34,7 +34,11 @@ Links zu Git:
 - git checkout <branch> - wechseln von Branches, setzt den HEAD (Zeiger) auf einen anderen Branch
 - git checkour -b <newbranchname> - legt einen neuen Branch an und wechselt gleich
 - git merge <branch> - zusammenführen von Branches
+
 - git log - zeigt commit Historie an
+- git log -p oder --patch zeigt die Unterschiede an
+- git log --stat
+- git log --pretty finde ich nicht so toll
   
 - git reset HEAD <datei> - unstaging von Dateien
 - git checkout -- <datei> - Änderungen an Datei verwerfen
