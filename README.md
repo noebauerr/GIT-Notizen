@@ -9,23 +9,23 @@ git clone https://github.com/noebauerr/PowerShell-test
 ctrl-enter
 
 
-# im Zuge vom HPI Kurs (juni 2020) editiert
+### im Zuge vom HPI Kurs (juni 2020) editiert
 
-git init             - erstellt ein neues lokales Repository
-git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
-git commit -m 'info' - aktualisiert dann das Repository
-git remove *.jpg     - entfernt dann Dateien
+- git init             - erstellt ein neues lokales Repository
+- git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
+- git commit -m 'info' - aktualisiert dann das Repository
+- git remove *.jpg     - entfernt dann Dateien
 
-git remote ? ?       - lädt ein lokales Repo ins Internet zB auf GitHub
-git clone https:/github.com/noebauerr/repo repo - cloned das Github Repo auf ein lokales Repo
+- git remote ? ?       - lädt ein lokales Repo ins Internet zB auf GitHub
+- git clone https:/github.com/noebauerr/repo repo - cloned das Github Repo auf ein lokales Repo
 
-git push    - lädt die Änderungen dann ins Online Repo bei Github
+- git push    - lädt die Änderungen dann ins Online Repo bei Github
 
-git fetch origin   - habe ich derzeit noch nicht probiert lädt die aktuelle version vom internet runter
-git merge          - und verbindet es dann
+- git fetch origin   - habe ich derzeit noch nicht probiert lädt die aktuelle version vom internet runter
+- git merge          - und verbindet es dann
 
-git pull    - führt fetch und merge aus, beide Befehle in einem
+- git pull    - führt fetch und merge aus, beide Befehle in einem
 
-git status
+- git status
 
-git config --list
+- git config --list
