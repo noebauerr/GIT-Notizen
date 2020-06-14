@@ -1,13 +1,8 @@
 # Notizen wie GIT funktioniert
 
-Hier noch ein LInk für mich wo drinnen steht wie die Formatierung funktioniert
-https://www.it-talents.de/blog/it-talents/tutorial-einstieg-in-markdown-zur-schnellen-formatierung-von-readme-dateien
-https://dillinger.io/ Markdown Editor
-
-git clone https://github.com/noebauerr/PowerShell-test
-änderungen
-ctrl-enter
-
+Links zur Markdown Language:
+- https://www.it-talents.de/blog/it-talents/tutorial-einstieg-in-markdown-zur-schnellen-formatierung-von-readme-dateien
+- https://dillinger.io/ Markdown Editor
 
 ### im Zuge vom HPI Kurs (juni 2020) editiert
 
