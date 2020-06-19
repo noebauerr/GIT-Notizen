@@ -21,7 +21,7 @@ git config --global user.email "reinhard.n@test.at"
 - git add              - fügt Dateien vom working Directory zur Staging Area hinzu, auch Wildcard möglich
 - git commit -m 'info' - aktualisiert dann das Repository
 - git commit --amend -m 'jetzt der richtige Text' - ersetzt die alte Commit Message
-- git remove *.jpg     - entfernt dann Dateien
+- git rm musik.txt      - löscht die Datei musik.txt
 
 - git remote ?       - lädt ein lokales Repo ins Internet zB auf GitHub
 - git clone https:/github.com/noebauerr/repo repo - cloned das Github Repo auf ein lokales Repo
@@ -52,5 +52,7 @@ git config --global user.email "reinhard.n@test.at"
   
 - git reset HEAD~ - zurück auf den vorletzten Commit, Arbeitsverzeichnis hat aber noch alle Änderungen gespeichert
 - git reset --hard HEAD~ - zurück auf den vorletzten Commit und Arbeitsverzeichnis auch auf die alte Version setzen
+- git restore --staged musik.txt entfernt die musik.txt Datei aus der staged Area
+- git reset HEAD -- Musik.txt macht die Änderungen in der Musik.txt rückgängig (stellt auf die letzte Version zurück)
 - git checkout -- <datei> - Änderungen an Datei verwerfen
   
